@@ -19,7 +19,7 @@ let urls = [
 
 
 let package = Package(
-    name: "Perfect",
+    name: "PerfectDemo",
     dependencies: [
         // HTTP服务
         .package(url: "https://github.com/PerfectlySoft/Perfect-HTTPServer.git", from: "3.0.0"),

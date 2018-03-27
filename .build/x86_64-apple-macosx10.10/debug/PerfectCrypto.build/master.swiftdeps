@@ -1,0 +1,11 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "f3b7984513121dd4354ea10a9bb6ed06"
+build_time: [1522161443, 420975000]
+inputs:
+  "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-Crypto.git--5196635702121641122/Sources/PerfectCrypto/Algorithms.swift": [1522161332, 0]
+  "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-Crypto.git--5196635702121641122/Sources/PerfectCrypto/ByteIO.swift": [1522161332, 0]
+  "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-Crypto.git--5196635702121641122/Sources/PerfectCrypto/Extensions.swift": [1522161332, 0]
+  "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-Crypto.git--5196635702121641122/Sources/PerfectCrypto/JWT.swift": [1522161332, 0]
+  "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-Crypto.git--5196635702121641122/Sources/PerfectCrypto/Keys.swift": [1522161332, 0]
+  "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-Crypto.git--5196635702121641122/Sources/PerfectCrypto/OpenSSLInternal.swift": [1522161332, 0]
+  "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-Crypto.git--5196635702121641122/Sources/PerfectCrypto/PerfectCrypto.swift": [1522161332, 0]

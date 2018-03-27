@@ -1,0 +1,14 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "bdcca73fdf3267a6b3ee7f5cc23191cb"
+build_time: [1522161466, 306504000]
+inputs:
+  "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/PerfectHTTP/HTTPFilter.swift": [1522161331, 0]
+  "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/PerfectHTTP/HTTPHeaders.swift": [1522161331, 0]
+  "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/PerfectHTTP/HTTPMethod.swift": [1522161331, 0]
+  "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/PerfectHTTP/HTTPRequest.swift": [1522161331, 0]
+  "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/PerfectHTTP/HTTPResponse.swift": [1522161331, 0]
+  "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/PerfectHTTP/MimeReader.swift": [1522161331, 0]
+  "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/PerfectHTTP/MimeType.swift": [1522161331, 0]
+  "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/PerfectHTTP/Routing.swift": [1522161331, 0]
+  "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/PerfectHTTP/StaticFileHandler.swift": [1522161331, 0]
+  "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/PerfectHTTP/TypedRoutes.swift": [1522161331, 0]

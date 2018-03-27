@@ -1,0 +1,106 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "PerfectCrypto"
+- "CryptoError"
+provides-nominal:
+- "13PerfectCryptoAAO"
+- "13PerfectCrypto0B5ErrorV"
+provides-member:
+- ["13PerfectCryptoAAO", ""]
+- ["13PerfectCrypto0B5ErrorV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "Bool"
+- "CryptoError"
+- "Error"
+- "Int"
+- "OpenSSLInternal"
+- "PerfectCrypto"
+- "String"
+depends-member:
+- ["13PerfectCrypto0B5ErrorV", "Int"]
+- ["13PerfectCrypto0B5ErrorV", "String"]
+- ["13PerfectCrypto0B5ErrorV", "_code"]
+- ["13PerfectCrypto0B5ErrorV", "_domain"]
+- ["13PerfectCrypto0B5ErrorV", "_getEmbeddedNSError"]
+- ["13PerfectCrypto0B5ErrorV", "_userInfo"]
+- ["13PerfectCrypto0B5ErrorV", "code"]
+- ["13PerfectCrypto0B5ErrorV", "deinit"]
+- ["13PerfectCrypto0B5ErrorV", "init"]
+- ["13PerfectCrypto0B5ErrorV", "msg"]
+- ["s5ErrorP", "_code"]
+- ["s5ErrorP", "_domain"]
+- ["s5ErrorP", "_getEmbeddedNSError"]
+- ["s5ErrorP", "_userInfo"]
+- ["s5ErrorP", ""]
+- ["13PerfectCrypto15OpenSSLInternalV", "isInitialized"]
+- ["13PerfectCryptoAAO", "Bool"]
+- ["13PerfectCryptoAAO", "OpenSSLInternal"]
+- ["13PerfectCryptoAAO", "isInitialized"]
+depends-nominal:
+- "13PerfectCrypto0B5ErrorV"
+- "s5ErrorP"
+- "13PerfectCrypto15OpenSSLInternalV"
+- "13PerfectCryptoAAO"
+depends-dynamic-lookup:
+depends-external:
+- "/Library/Developer/CommandLineTools/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Library/Developer/CommandLineTools/usr/lib/swift/macosx/x86_64/os.apinotesc"
+- "/Library/Developer/CommandLineTools/usr/lib/swift/macosx/x86_64/XPC.swiftmodule"
+- "/Library/Developer/CommandLineTools/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/x86_64-apple-macosx10.10/debug/PerfectLib.swiftmodule"
+- "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/x86_64-apple-macosx10.10/debug/PerfectThread.swiftmodule"
+- "/Library/Developer/CommandLineTools/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Library/Developer/CommandLineTools/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Library/Developer/CommandLineTools/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Library/Developer/CommandLineTools/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Library/Developer/CommandLineTools/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Library/Developer/CommandLineTools/usr/lib/swift/macosx/x86_64/os.swiftmodule"
+- "/Library/Developer/CommandLineTools/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Library/Developer/CommandLineTools/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Library/Developer/CommandLineTools/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../asn1.h"
+- "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../tls1.h"
+- "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../dtls1.h"
+- "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ssl2.h"
+- "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../pem2.h"
+- "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../e_os2.h"
+- "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ssl23.h"
+- "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ssl3.h"
+- "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../pkcs7.h"
+- "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../x509.h"
+- "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../sha.h"
+- "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../dsa.h"
+- "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ecdsa.h"
+- "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../rsa.h"
+- "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../obj_mac.h"
+- "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../hmac.h"
+- "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ec.h"
+- "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../rand.h"
+- "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../pqueue.h"
+- "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../opensslconf.h"
+- "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../dh.h"
+- "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ecdh.h"
+- "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../lhash.h"
+- "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../stack.h"
+- "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../safestack.h"
+- "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ssl.h"
+- "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../kssl.h"
+- "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/openssl.h"
+- "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../pem.h"
+- "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../bn.h"
+- "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../bio.h"
+- "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../crypto.h"
+- "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../comp.h"
+- "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../srtp.h"
+- "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../evp.h"
+- "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ossl_typ.h"
+- "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../buffer.h"
+- "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../err.h"
+- "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../symhacks.h"
+- "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../cms.h"
+- "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../objects.h"
+- "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../opensslv.h"
+- "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../x509_vfy.h"
+- "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/module.modulemap"
+interface-hash: "8b18cc72ffad6dab8f6a79217dd23fd4"

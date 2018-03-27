@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "2c44a4315663a4c00d8c7b3d0bb30015"
+build_time: [1522161489, 812373000]
+inputs:
+  "/Users/xtraln/Documents/GitHub/PerfectDemo/Sources/Perfect/main.swift": !dirty [1522160804, 0]

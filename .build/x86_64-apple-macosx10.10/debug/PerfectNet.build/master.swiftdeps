@@ -1,0 +1,11 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "7268783fdee740a6a2de805acfb32b9d"
+build_time: [1522161454, 702987000]
+inputs:
+  "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-Net.git-3268755499654502659/Sources/Net.swift": [1522161329, 0]
+  "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-Net.git-3268755499654502659/Sources/NetAddress.swift": [1522161329, 0]
+  "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-Net.git-3268755499654502659/Sources/NetEvent.swift": [1522161329, 0]
+  "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-Net.git-3268755499654502659/Sources/NetNamedPipe.swift": [1522161329, 0]
+  "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-Net.git-3268755499654502659/Sources/NetTCP.swift": [1522161329, 0]
+  "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-Net.git-3268755499654502659/Sources/NetTCPSSL.swift": [1522161329, 0]
+  "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/checkouts/Perfect-Net.git-3268755499654502659/Sources/NetUDP.swift": [1522161329, 0]

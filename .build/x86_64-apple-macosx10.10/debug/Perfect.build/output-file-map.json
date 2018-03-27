@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/x86_64-apple-macosx10.10/debug/Perfect.build/master.swiftdeps"
+  },
+  "/Users/xtraln/Documents/GitHub/PerfectDemo/Sources/Perfect/main.swift": {
+    "dependencies": "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/x86_64-apple-macosx10.10/debug/Perfect.build/main.d",
+    "object": "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/x86_64-apple-macosx10.10/debug/Perfect.build/main.swift.o",
+    "swiftmodule": "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/x86_64-apple-macosx10.10/debug/Perfect.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/xtraln/Documents/GitHub/PerfectDemo/.build/x86_64-apple-macosx10.10/debug/Perfect.build/main.swiftdeps"
+  }
+}
